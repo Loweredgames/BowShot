@@ -3,6 +3,8 @@ advancement grant @a everything
 difficulty normal
 recipe take @a *
 effect give @a minecraft:saturation 11 250 true
+effect give @e[type=minecraft:villager] regeneration infinite 250 false
+effect give @e[type=minecraft:iron_golem] regeneration infinite 250 false
 xp set @a 0 levels
 xp set @a 0 points
 gamerule commandModificationBlockLimit 1000000
