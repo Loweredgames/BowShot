@@ -1,8 +1,11 @@
+##Setup Levels
 scoreboard objectives add levels dummy
 scoreboard objectives add bell_ring minecraft.custom:minecraft.bell_ring
 scoreboard objectives add points minecraft.custom:minecraft.bell_ring
 scoreboard objectives setdisplay list points
 scoreboard objectives setdisplay sidebar levels
+
+
 execute as @a[scores={bell_ring=1}] run setblock 258 76 -162 air
 execute as @a[scores={bell_ring=1}] run setblock 65 71 -12 air
 execute as @a[scores={bell_ring=1}] run setblock -1485 71 -771 air

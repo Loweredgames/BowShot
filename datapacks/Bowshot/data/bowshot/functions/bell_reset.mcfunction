@@ -1,3 +1,4 @@
+##Bell Reset
 scoreboard players reset @a levels
 scoreboard players set @a bell_ring 0
 scoreboard players reset @a points

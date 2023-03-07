@@ -3,16 +3,14 @@ Name: BowShot
 
 Edition: JAVA EDITION
 
-Release: 1.0
+Release: JE-1.19.3-BowShot:BUILDING:07.03.2023a - 1.0.0
 
 Resource_pack: TRUE
 
 Data_pack: TRUE
 
-Stable: IN SVILUPPO
+Github_Tag: JE-0a
 
 Github: https://github.com/Lorenzo0310200/BowShot
-
-Github_Tag: JE-0a
 
 Website:https://minecraft-map-building-versions.blogspot.com/
