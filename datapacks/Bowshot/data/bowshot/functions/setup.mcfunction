@@ -1,3 +1,10 @@
+#Copyright (C) Loweredgames (Lorenzo Giannini) 
+#Contacted:<https://github.com/Loweredgames>
+#This Source Code Form is subject to the terms of the License.
+#NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG STUDIO.
+#READING THE COPYRIGHT (C): <https://www.minecraft.net/en-us/terms>
+
+
 ##Setup
 advancement grant @a everything
 difficulty normal
@@ -22,3 +29,4 @@ item replace entity @p hotbar.0 with minecraft:bow{display:{Name:'{"text":"Bowsh
 function bowshot:setup_levels
 function bowshot:arrow
 function bowshot:bell_spawn
+aggiungere versione
